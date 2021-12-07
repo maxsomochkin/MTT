@@ -8,7 +8,6 @@ public class Main {
 	// write your code here
         //STAGE1
        final String bot_name = "Alice";
-        System.out.println("Enter your name:");
         final Scanner scanner = new Scanner(System.in);
         final int birth_day = 12;
         final int birth_month = 10;
