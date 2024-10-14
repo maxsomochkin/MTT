@@ -14,6 +14,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
        
         System.out.println("Please enter your name:");
+        System.out.println("Please enter your surname:");
         String enteredName =  scanner.nextLine();
         maxHuman.name = enteredName;
         maxHuman.printHello();
