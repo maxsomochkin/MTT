@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
+
         Human maxHuman = new Human();
         
         System.out.println(maxHuman.name);
@@ -18,6 +19,6 @@ public class Main {
         String enteredName =  scanner.nextLine();
         maxHuman.name = enteredName;
         maxHuman.printHello();
-        
+       
     }
 }
