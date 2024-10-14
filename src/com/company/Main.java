@@ -12,7 +12,10 @@ public class Main {
         System.out.println(maxHuman.name);
         maxHuman.printHello();
         Scanner scanner = new Scanner(System.in);
-       
+       //dgsjadjklasjdkalsjdad
+       //asdghasdghasdgjh
+       //asdghasdghasdgjh
+       //asdghasdghasdgjh
         System.out.println("Please enter your name:");
         System.out.println("new feature");
         System.out.println("Please enter your surname:");
@@ -21,4 +24,5 @@ public class Main {
         maxHuman.printHello();
         
     }
+
 }
