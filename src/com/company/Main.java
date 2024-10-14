@@ -15,6 +15,7 @@ public class Main {
        
         System.out.println("Please enter your name:");
         System.out.println("Please enter your surnamename:");
+        System.out.println("Please enter your surnamename:");
         String enteredName =  scanner.nextLine();
         maxHuman.name = enteredName;
         maxHuman.printHello();
